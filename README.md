@@ -2,7 +2,7 @@
 - 👀 I’m interested in iOS
 - 🌱 I’m currently learning flutter
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 other platform : juejin -> https://juejin.cn/user/1988378081896535
 
 <!---
 Tenocht1tlan/Tenocht1tlan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
